@@ -75,21 +75,6 @@ Once the validated file is obtained, the idea of this project is to generate fin
 
 ![gui](https://user-images.githubusercontent.com/93818265/150693525-0c5b4bd1-d208-45cd-88e9-6243f67737f5.png)
 
-![Screenshot (35)](https://user-images.githubusercontent.com/93818265/150695365-76e9411c-b0c7-4280-9fd6-bd3d4f28b0da.png)
-
-
-![Screenshot (37)](https://user-images.githubusercontent.com/93818265/150695395-9b1521f0-3985-480e-a137-cc62a89e0e04.png)
-
-
-![Screenshot (36)](https://user-images.githubusercontent.com/93818265/150695402-97bc7a86-8365-4666-977d-811f0bce0f77.png)
-
-
-![Screenshot (41)](https://user-images.githubusercontent.com/93818265/150695534-79a2fb9a-0f3f-439d-af44-626af4d756a1.png)
-
-
-![Screenshot (42)](https://user-images.githubusercontent.com/93818265/150695599-c0068ea6-0382-4c9a-8417-d9d1bb178aa5.png)
-
-
 
 
 |Methods| Explanation|
@@ -109,7 +94,22 @@ LSTM (Long Short Term Memory) | The LSTM (Long Short Term Memory) is an Artifici
 As discussed earlier, this application will be an abstract one which can be used to generate financial reports for the company of interest and the information from the analysis will be exhibited to the user in order for investing in stock market. Let us assume the company of interest at random and period of interest for 6 years.
 
 
-![Screenshot (33)](https://user-images.githubusercontent.com/93818265/150693996-1e627619-cabb-4cbd-9246-1a6005008541.png)
+
+
+
+![Screenshot (35)](https://user-images.githubusercontent.com/93818265/150695365-76e9411c-b0c7-4280-9fd6-bd3d4f28b0da.png)
+
+
+![Screenshot (37)](https://user-images.githubusercontent.com/93818265/150695395-9b1521f0-3985-480e-a137-cc62a89e0e04.png)
+
+
+![Screenshot (36)](https://user-images.githubusercontent.com/93818265/150695402-97bc7a86-8365-4666-977d-811f0bce0f77.png)
+
+
+![Screenshot (41)](https://user-images.githubusercontent.com/93818265/150695534-79a2fb9a-0f3f-439d-af44-626af4d756a1.png)
+
+
+![Screenshot (42)](https://user-images.githubusercontent.com/93818265/150695599-c0068ea6-0382-4c9a-8417-d9d1bb178aa5.png)
 
 
 
