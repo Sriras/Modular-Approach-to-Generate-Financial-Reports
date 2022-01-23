@@ -67,3 +67,7 @@ MYSQL databases is used in order to back up the historical data in the database 
 ### Validation and Pre-processing of the dataset
 Once the dataset is dumped into the server, the accessibility of the dataset is only from the server. The application is programed in such a way that the schema  is automatically created. The dataset is revived from the server and is imposed to the preprocessing.py file in order to check whether entire features are available and there are no null values. The obtained validated file will be the finalized one where we will implement our Statistical Measures and Machine Learning techniques. The validated file will be saved in the directory where the python application runs. Here is the image of the validated file.
 
+![validated py](https://user-images.githubusercontent.com/93818265/150693348-85bcb0e1-16a5-4910-b578-148fff54ed3e.png)
+
+### Generating Reports 
+Once the validated file is obtained, the idea of this project is to generate financial report about the company and derive customer’s interest to buy the stocks. These financial report speaks about the historical performance of the company and as we have mentioned this will be an abstract application the information about the company will be shared according the period of interest which is a parameter grabbed while input.
