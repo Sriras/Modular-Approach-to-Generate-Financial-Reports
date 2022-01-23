@@ -83,3 +83,14 @@ As discussed earlier, this application will be an abstract one which can be used
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/93818265/150694150-60266edf-3dfc-47df-adce-2e9f36bf4e46.png)
 
+![Screenshot (36)](https://user-images.githubusercontent.com/93818265/150694411-d8e23392-a469-4c37-a131-3b8c1a6462ca.png)
+
+
+![Screenshot (37)](https://user-images.githubusercontent.com/93818265/150694415-cbd56d4e-d545-4683-9e90-b42b3d26304b.png)
+
+
+![Screenshot (38)](https://user-images.githubusercontent.com/93818265/150694418-fca2aabf-2f63-45bf-b42c-d1446bea686d.png)
+
+
+![Screenshot (39)](https://user-images.githubusercontent.com/93818265/150694421-1f65f3b6-9cc9-4100-a626-560e5d91f952.png)
+
