@@ -62,4 +62,8 @@ The data required here is the historical stock data, which is extracted from the
 ### Dumping Data to Server
 MYSQL databases is used in order to back up the historical data in the database and then revive them accordingly. This application is designed in an abstract manner where we can search any company of interest. For example purposes the dataset that is dumped into the server is shown as below. The accessibility of the dataset will be only from the server.
  
+![db img](https://user-images.githubusercontent.com/93818265/150693118-325330fc-caf5-45a3-8574-e4b282cce780.png)
+
+### Validation and Pre-processing of the dataset
+Once the dataset is dumped into the server, the accessibility of the dataset is only from the server. The application is programed in such a way that the schema  is automatically created. The dataset is revived from the server and is imposed to the preprocessing.py file in order to check whether entire features are available and there are no null values. The obtained validated file will be the finalized one where we will implement our Statistical Measures and Machine Learning techniques. The validated file will be saved in the directory where the python application runs. Here is the image of the validated file.
 
