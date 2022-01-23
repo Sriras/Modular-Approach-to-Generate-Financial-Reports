@@ -71,3 +71,9 @@ Once the dataset is dumped into the server, the accessibility of the dataset is 
 
 ### Generating Reports 
 Once the validated file is obtained, the idea of this project is to generate financial report about the company and derive customer’s interest to buy the stocks. These financial report speaks about the historical performance of the company and as we have mentioned this will be an abstract application the information about the company will be shared according the period of interest which is a parameter grabbed while input.
+
+![gui](https://user-images.githubusercontent.com/93818265/150693525-0c5b4bd1-d208-45cd-88e9-6243f67737f5.png)
+
+## Output
+As discussed earlier, this application will be an abstract one which can be used to generate financial reports for the company of interest and the information from the analysis will be exhibited to the user in order for investing in stock market. Let us assume the company of interest at random and period of interest for 6 years.
+
