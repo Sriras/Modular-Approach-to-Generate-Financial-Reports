@@ -1,4 +1,4 @@
-# Modular approach to gernerate financial reports
+# MODULAR APPROCH TO GENERATE FINANCIAL REPORTS (AN END TO END APPLICATION)
 
 ## Introduction to Stock Market
 In a country like ours where free market economy is the life line, Stock Market is one of the primary source for higher Capital for any business venture and development. This is the place where there is no disparity, in the participants, democratized access to trading and exchange of 
