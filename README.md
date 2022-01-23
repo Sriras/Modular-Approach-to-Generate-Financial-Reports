@@ -72,7 +72,22 @@ Once the dataset is dumped into the server, the accessibility of the dataset is 
 ### Generating Reports 
 Once the validated file is obtained, the idea of this project is to generate financial report about the company and derive customer’s interest to buy the stocks. These financial report speaks about the historical performance of the company and as we have mentioned this will be an abstract application the information about the company will be shared according the period of interest which is a parameter grabbed while input.
 
+
 ![gui](https://user-images.githubusercontent.com/93818265/150693525-0c5b4bd1-d208-45cd-88e9-6243f67737f5.png)
+
+
+|Methods| Explanation|
+|-------|-------------|
+Visualization                |This will explain the visuals in graphs according to the users period of interest and visualization will be done year wise
+Spread                       |Spread calculates the difference between two prices or rates. Here it considers the opening and closing value of the stock. Zscore analysis is applied to the    spread attribute, which will be very significant to measure the fluctuation in the stocks. Spread = High – Low.|
+Volatility                   | Volatility is a statistical measure of the dispersion of returns for a given security or market index. In most cases, the higher the volatility, the riskier the security. Volatility is often measured as either the standard deviation or variance between returns from that same security or market index.
+Daily Returns                | The returns are the daily returns, which is calculated by the closing value of the next day divided by the closing value of the current day. Return = previous close / current close.
+Moving Average               | Moving average is a technique, which is used to analyze the data by forming a series of average of subsets of the dataset. The Moving average will help to smoothen the curve by constantly updating the average price.
+Auto-correlation Plots       | The Auto – correlation plots or the correlation plots is used in order to find out the seasonality or the pattern of a particular feature, which paves way for the analysis to further make keen decision.
+LSTM (Long Short Term Memory) | The LSTM (Long Short Term Memory) is an Artificial Neural Network Architecture, which is used to process multiple data points as sequence and predict the next value .LSTM is used to Predict the stock price.
+
+
+
 
 ## Output
 As discussed earlier, this application will be an abstract one which can be used to generate financial reports for the company of interest and the information from the analysis will be exhibited to the user in order for investing in stock market. Let us assume the company of interest at random and period of interest for 6 years.
@@ -81,16 +96,18 @@ As discussed earlier, this application will be an abstract one which can be used
 ![Screenshot (33)](https://user-images.githubusercontent.com/93818265/150693996-1e627619-cabb-4cbd-9246-1a6005008541.png)
 
 
-![Screenshot (35)](https://user-images.githubusercontent.com/93818265/150694150-60266edf-3dfc-47df-adce-2e9f36bf4e46.png)
-
-![Screenshot (36)](https://user-images.githubusercontent.com/93818265/150694411-d8e23392-a469-4c37-a131-3b8c1a6462ca.png)
 
 
-![Screenshot (37)](https://user-images.githubusercontent.com/93818265/150694415-cbd56d4e-d545-4683-9e90-b42b3d26304b.png)
 
 
-![Screenshot (38)](https://user-images.githubusercontent.com/93818265/150694418-fca2aabf-2f63-45bf-b42c-d1446bea686d.png)
+# Software Requirments
+-Python version 3.9.0 or above
 
 
-![Screenshot (39)](https://user-images.githubusercontent.com/93818265/150694421-1f65f3b6-9cc9-4100-a626-560e5d91f952.png)
+# How to run the Code
+```
+$ python main.py
+```
+
+
 
