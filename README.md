@@ -17,6 +17,7 @@ performs and the declared dividend of the company.
 - shutil
 - docx
 - mysql.connector
+- sqlalchemy
 - datetime
 - math
 - pandas
