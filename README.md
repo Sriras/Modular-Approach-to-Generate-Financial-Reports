@@ -77,3 +77,7 @@ Once the validated file is obtained, the idea of this project is to generate fin
 ## Output
 As discussed earlier, this application will be an abstract one which can be used to generate financial reports for the company of interest and the information from the analysis will be exhibited to the user in order for investing in stock market. Let us assume the company of interest at random and period of interest for 6 years.
 
+
+![Screenshot (33)](https://user-images.githubusercontent.com/93818265/150693996-1e627619-cabb-4cbd-9246-1a6005008541.png)
+
+
